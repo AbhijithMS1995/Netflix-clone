@@ -19,3 +19,12 @@
     right: 20px;
     width: 30px;
 }
+.nav-items{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    margin-left: 15px;
+
+}
